@@ -1,0 +1,9 @@
+﻿  Array.cpp
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(7): error C2065: 'cout': undeclared identifier
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(9): error C2065: 'cout': undeclared identifier
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(9): error C2065: 'endl': undeclared identifier
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(14): error C3861: 'rand': identifier not found
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(34): error C2065: 'cout': undeclared identifier
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(34): error C2065: 'endl': undeclared identifier
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(35): error C2065: 'cout': undeclared identifier
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\array\array\array.cpp(35): error C2065: 'endl': undeclared identifier

@@ -1,0 +1,25 @@
+﻿  Lab10.cpp
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\lab10\lab10\orderedlist.h(13): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\amanp\onedrive\documents\visual studio 2017\projects\lab10\lab10\orderedlist.h(11): note: while compiling class template member function 'void OrderedList<Box *,BoxWeightAscending>::insert(T)'
+          with
+          [
+              T=Box *
+          ]
+  c:\users\amanp\onedrive\documents\visual studio 2017\projects\lab10\lab10\lab10.cpp(58): note: see reference to function template instantiation 'void OrderedList<Box *,BoxWeightAscending>::insert(T)' being compiled
+          with
+          [
+              T=Box *
+          ]
+  c:\users\amanp\onedrive\documents\visual studio 2017\projects\lab10\lab10\lab10.cpp(51): note: see reference to class template instantiation 'OrderedList<Box *,BoxWeightAscending>' being compiled
+c:\users\amanp\onedrive\documents\visual studio 2017\projects\lab10\lab10\orderedlist.h(21): warning C4018: '<=': signed/unsigned mismatch
+  c:\users\amanp\onedrive\documents\visual studio 2017\projects\lab10\lab10\lab10.cpp(78): note: see reference to function template instantiation 'int OrderedList<Box *,BoxVolumeDescending>::find<MatchBoxByWeight>(T) const' being compiled
+          with
+          [
+              T=Box *
+          ]
+  c:\users\amanp\onedrive\documents\visual studio 2017\projects\lab10\lab10\lab10.cpp(78): note: see reference to function template instantiation 'int OrderedList<Box *,BoxVolumeDescending>::find<MatchBoxByWeight>(T) const' being compiled
+          with
+          [
+              T=Box *
+          ]
+  Lab10.vcxproj -> C:\Users\amanp\OneDrive\Documents\Visual Studio 2017\Projects\Lab10\Debug\Lab10.exe

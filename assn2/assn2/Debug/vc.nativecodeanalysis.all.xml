@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@D@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@D@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@D@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@D@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@D@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>22</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@D@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Guess::guess' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@D@Z</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>29</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@H@Z</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>guess.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>14</COLUMN>
+    </SFA>
+    <DEFECTCODE>6282</DEFECTCODE>
+    <DESCRIPTION>Incorrect operator:  assignment of constant in Boolean context. Consider using '==' instead.</DESCRIPTION>
+    <FUNCTION>Guess::{ctor}</FUNCTION>
+    <DECORATED>??0Guess@@QAE@H@Z</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\amanp\onedrive\documents\visual studio 2017\projects\assn2\assn2\</FILEPATH>
+      <FILENAME>human.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Human::score' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Human::{ctor}</FUNCTION>
+    <DECORATED>??0Human@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>4</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

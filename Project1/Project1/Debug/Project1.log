@@ -1,0 +1,3 @@
+﻿  Project.cpp
+c:\users\amanp\source\repos\project1\project1\project.cpp(30): warning C4101: 'pf': unreferenced local variable
+  Project1.vcxproj -> C:\Users\amanp\source\repos\Project1\Debug\Project1.exe

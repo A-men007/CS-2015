@@ -1,0 +1,4 @@
+﻿  classdemo2.cpp
+c:\users\amanp\source\repos\classdemo2\classdemo2\classdemo2.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\amanp\source\repos\classdemo2\classdemo2\classdemo2.cpp(18): warning C4018: '<': signed/unsigned mismatch
+  classdemo2.vcxproj -> C:\Users\amanp\source\repos\classdemo2\Debug\classdemo2.exe

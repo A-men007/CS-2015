@@ -1,0 +1,26 @@
+﻿  Lab7.cpp
+c:\users\amanp\source\repos\lab7\lab7\lab7.cpp(18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\amanp\source\repos\lab7\lab7\baganysame.h(21): warning C4244: '=': conversion from 'double' to 'Bag', possible loss of data
+          with
+          [
+              Bag=float
+          ]
+  c:\users\amanp\source\repos\lab7\lab7\baganysame.h(20): note: while compiling class template member function 'void BagAnySame<float>::setObj2(double)'
+  c:\users\amanp\source\repos\lab7\lab7\baganysame.h(12): note: see reference to function template instantiation 'void BagAnySame<float>::setObj2(double)' being compiled
+  c:\users\amanp\source\repos\lab7\lab7\lab7.cpp(18): note: see reference to class template instantiation 'BagAnySame<float>' being compiled
+c:\users\amanp\source\repos\lab7\lab7\baganysame.h(15): warning C4244: '=': conversion from 'int' to 'Bag', possible loss of data
+          with
+          [
+              Bag=float
+          ]
+  c:\users\amanp\source\repos\lab7\lab7\baganysame.h(14): note: while compiling class template member function 'void BagAnySame<float>::setObj1(int)'
+  c:\users\amanp\source\repos\lab7\lab7\baganysame.h(11): note: see reference to function template instantiation 'void BagAnySame<float>::setObj1(int)' being compiled
+c:\users\amanp\source\repos\lab7\lab7\baganysame.h(21): warning C4244: '=': conversion from 'double' to 'Bag', possible loss of data
+          with
+          [
+              Bag=int
+          ]
+  c:\users\amanp\source\repos\lab7\lab7\baganysame.h(20): note: while compiling class template member function 'void BagAnySame<int>::setObj2(double)'
+  c:\users\amanp\source\repos\lab7\lab7\baganysame.h(12): note: see reference to function template instantiation 'void BagAnySame<int>::setObj2(double)' being compiled
+  c:\users\amanp\source\repos\lab7\lab7\lab7.cpp(17): note: see reference to class template instantiation 'BagAnySame<int>' being compiled
+  Lab7.vcxproj -> C:\Users\amanp\source\repos\Lab7\Debug\Lab7.exe

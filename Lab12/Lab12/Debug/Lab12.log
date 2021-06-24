@@ -1,0 +1,6 @@
+﻿  Lab12.cpp
+  Lab12pt2.cpp
+c:\users\amanp\source\repos\lab12\lab12\lab12pt2.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\amanp\source\repos\lab12\lab12\lab12pt2.cpp(35): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab12.vcxproj -> C:\Users\amanp\source\repos\Lab12\Debug\Lab12.exe
